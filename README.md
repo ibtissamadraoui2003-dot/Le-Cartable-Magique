@@ -61,20 +61,5 @@ python main_game.py
 - `train.py` : entraînement de l’IA
 - `test_*.py` : tests du projet
 
-## Déploiement GitHub
 
-Avant de publier sur GitHub :
-
-1. Vérifier que le dépôt ne contient pas de fichiers générés (`__pycache__`, `.venv`, `.DS_Store`, modèles temporaires, etc.)
-2. Créer un dépôt GitHub vide
-3. Ajouter le projet :
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/VOTRE_UTILISATEUR/VOTRE_REPO.git
-git push -u origin main
-```
 
