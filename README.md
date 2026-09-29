@@ -14,6 +14,18 @@ Le projet inclut aussi un mode d’IA simple et un mode d’IA RL (apprentissage
 - Mode IA RL
 - Entraînement de l’agent
 
+## Captures d’écran
+
+![Menu principal du jeu](screenshots/menu.png)
+
+![Niveau de jeu en cours](screenshots/gameplay.png)
+
+Pour régénérer ces captures localement :
+
+```bash
+python3 generate_screenshots.py
+```
+
 ## Prérequis
 
 - Python 3.9+
